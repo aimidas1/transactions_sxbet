@@ -1,0 +1,2 @@
+fillHash,bettor,side,stake,odds,marketLabel,betLabel,competition,gameLabel,teamOneName,teamTwoName,marketHash,sportXeventId,maker,settled,tradeStatus,valid,betTime,gameTime,netReturn,chainVersion,baseToken
+0x864ae933266ffde8707769c32f9251b03c7600dc6768e603edb700f7d3f5d7cb,0x44a80DC6b2015FBaC7a505fB0D7CCa1FAC58C7Bf,1,2,1.555,1X2,Aarhus AGF,Superliga,Lyngby vs Aarhus AGF,Lyngby,Aarhus AGF,0xf000d5daa6ad24f6820f826afb6b2a0e0aa80e629e469cc4bcdadb77cba654a5,L19592306,0,0,SUCCESS,1,1785344233,1785600000,3.603604,SXR,0x6629Ce1Cf35Cc1329ebB4F63202F3f197b3F050B
